@@ -1,4 +1,4 @@
 # Wizard-s-Duel
 
-#Trello
+# Trello
 https://trello.com/b/Tn7xgch2/wizards-duel

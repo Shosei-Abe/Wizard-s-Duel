@@ -24,14 +24,16 @@ The Enemy AI utilizes **NavMesh** for movement and makes autonomous decisions ba
 
 ## ✨ Technical Highlights
 This project implements features beyond the basic curriculum:
-1.  **NavMesh & AI Tools:** Intelligent pathfinding and obstacle avoidance.
-2.  **Particle Systems:** Visual effects for Fireballs, Shields, and Teleportation.
+* **NavMesh & AI Tools:** Intelligent pathfinding and obstacle avoidance.
+* **Particle Systems:** Visual effects for Fireballs, Shields, and Teleportation.
 
-## 🛠️ How to Run
-1.  Clone this repository.
-2.  Open the project with **Unity 6 (6000.0.25f1)** or later.
-3.  Open `Scenes/rpgpp_lt_scene_1.0`.
-4.  Press Play!
+## 🛠️ How to Play (Mac)
+1.  Download the `.zip` file and unzip it.
+2.  **Important:** Due to Mac security settings, you must right-click the app to open it.
+    * **Right-click** (or Control+Click) `WizardsDuel.app`.
+    * Select **Open**.
+    * Click **Open** again in the pop-up window.
+3.  Enjoy the duel!
 
 ---
 *Created by Shosei Abe*
